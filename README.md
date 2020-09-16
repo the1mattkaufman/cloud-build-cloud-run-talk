@@ -49,4 +49,6 @@ c. You can build your image locally using docker build and upload later using do
 6. Click Save
 
 Notes:
-a. You can view your Cloud Build Dashboard at: https://console.cloud.google.com/cloud-build/dashboard?project=PROJECT-ID
+a. You can create your own build configuration file or allow Cloud Build to do it for you.
+
+b. You can view your Cloud Build Dashboard at: https://console.cloud.google.com/cloud-build/dashboard?project=PROJECT-ID

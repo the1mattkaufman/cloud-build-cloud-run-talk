@@ -36,7 +36,14 @@ c. You can build your image locally using docker build and upload later using do
 
 # Getting Started with Cloud Build
 
-1. In the Google Cloud Console, enable the Source Repo, and Cloud Build APIs:
-   https://console.cloud.google.com/flows/enableapi?apiid=sourcerepo.googleapis.com,cloudbuild.googleapis.com
+1. View your service in Cloud Run
 
-2.
+2. Click Set Up Continuous Deployment
+
+3. Click Manage connected repositories to auth into Github and link your repo
+
+4. Choose your Branch
+
+5. Choose your Dockerfile
+
+6. Click Save

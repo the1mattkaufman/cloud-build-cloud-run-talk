@@ -1,6 +1,6 @@
 {
-  "name": "biggerwords",
-  "description": "Sample App to Learn New Words",
+  "name": "helloworld",
+  "description": "Simple hello world sample in Node",
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
